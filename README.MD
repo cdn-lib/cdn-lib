@@ -130,7 +130,7 @@ Tidak ada yang lebih setia dari Rem.
 
 <div align="center">
 
-<br/><br/>
+<br/>
 
 [![Ikon Keahlian](https://skillicons.dev/icons?i=php,js,html,css,git,github,vscode,linux,sqlite,npm,bash&theme=dark&perline=11)](https://skillicons.dev)
 
@@ -140,7 +140,7 @@ Tidak ada yang lebih setia dari Rem.
 
 <img src="https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-Proyek%20Unggulan-6C63FF?style=for-the-badge&logo=rocket&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
