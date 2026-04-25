@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://animekita.online" target="_blank"><img src="https://img.shields.io/badge/KizunaNET-animekita.online-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://animekita.online" target="_blank"><img src="https://img.shields.io/badge/Official Site-animekita.online-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:kaguraisempai@gmail.com"><img src="https://img.shields.io/badge/Gmail-Hubungi_Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/cdn-lib"><img src="https://img.shields.io/badge/GitHub-cdn--lib-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.npmjs.com/~cdn-lib"><img src="https://img.shields.io/badge/npm-cdn--lib-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
