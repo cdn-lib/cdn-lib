@@ -31,15 +31,14 @@ PORTOFOLIO OF YUMEIRO DESU
 </div>
 
 ---
-# List Menu
-<div align="center">
+### 📑 Navigasi
+- [Tentang Saya](#tentang-saya)
+- [Waifu Favorit](#waifu-favorit)
+- [Alat Tempur](#alat-tempur)
+- [Proyek Berjalan](#proyek-berjalan-baru)
+- [Statistik GitHub](#statistik-github)
+- [Pencapaian](#pencapaian)
 
-| | | |
-| :---: | :---: | :---: |
-| [**TENTANG**](#tentang-saya) | [**WAIFU**](#waifu-favorit) | [**TOOLS**](#alat-tempur) |
-| [**PROYEK**](#proyek-berjalan-baru) | [**STATS**](#statistik-github) | [**ACHIVE**](#pencapaian) |
-
-</div>
 
 ---
 # TENTANG SAYA
