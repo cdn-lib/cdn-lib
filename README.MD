@@ -123,10 +123,6 @@ Tidak ada yang lebih setia dari Rem.
 
 <br/>
 
-<img src="https://img.shields.io/badge/推しキャラ-Rem%20%2F%20%E3%83%AC%E3%83%A0-6C63FF?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
-<img src="https://img.shields.io/badge/CV-Minase%20Inori%20%2F%20%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A-e91e8c?style=for-the-badge&logo=spotify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Re%3AZero-2016-0d1117?style=for-the-badge&logo=myanimelist&logoColor=white"/>
-
 </div>
 
 ---
@@ -151,25 +147,6 @@ Tidak ada yang lebih setia dari Rem.
 <img src="https://img.shields.io/badge/Alat%20dan%20Platform-6C63FF?style=flat-square&logo=gnubash&logoColor=white"/>
 
 <br/><br/>
-
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br/>
-
-<img src="https://img.shields.io/badge/Library%20dan%20Framework-6C63FF?style=flat-square&logo=stackexchange&logoColor=white"/>
-
-<br/><br/>
-
-![PHPMailer](https://img.shields.io/badge/PHPMailer-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<br/>
 
 [![Ikon Keahlian](https://skillicons.dev/icons?i=php,js,html,css,git,github,vscode,linux,sqlite,npm,bash&theme=dark&perline=11)](https://skillicons.dev)
 
