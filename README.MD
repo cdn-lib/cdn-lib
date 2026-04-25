@@ -27,7 +27,7 @@
 
 ---
 
-**##TENTANG SAYA**
+# TENTANG SAYA
 
 ```php
 <?php
@@ -80,9 +80,9 @@ class YumeDeveloper
 
 <br/><br/>
 
-<img src="rem.png" width="175" alt="Rem Art"/>
+<img src="rem.png" width="500" alt="Rem Art"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/レム-Rem-6C63FF?style=flat-square&logo=crunchyroll&logoColor=white"/>
 
