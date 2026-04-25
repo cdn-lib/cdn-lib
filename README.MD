@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- DINO — di antara gelombang & typing, ukuran besar -->
-<img src="dino.gif" width="420" alt="Dino"/>
+<img src="dino.gif" width="900" alt="Dino"/>
 
 <br/>
 
