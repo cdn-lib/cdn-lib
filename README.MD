@@ -31,9 +31,13 @@ PORTOFOLIO OF YUMEIRO DESU
 </div>
 
 ---
+# List Menu
 <div align="center">
 
-### ✧ [TENTANG SAYA](#tentang-saya) • [WAIFU FAVORIT](#waifu-favorit) • [ALAT TEMPUR](#alat-tempur) • [PROYEK](#proyek-berjalan-baru) • [STATISTIK](#statistik-github) • [PENCAPAIAN](#pencapaian) ✧
+| | | |
+| :---: | :---: | :---: |
+| [**TENTANG**](#tentang-saya) | [**WAIFU**](#waifu-favorit) | [**TOOLS**](#alat-tempur) |
+| [**PROYEK**](#proyek-berjalan-baru) | [**STATS**](#statistik-github) | [**ACHIVE**](#pencapaian) |
 
 </div>
 
