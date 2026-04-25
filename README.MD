@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- DINO — di antara gelombang & typing, ukuran besar -->
-<img src="dino.gif" width="900" alt="Dino"/>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <br/>
 
