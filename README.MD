@@ -191,7 +191,7 @@ Tidak ada yang lebih setia dari Rem.
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=cdn-lib&theme=tokyonight&no-frame=true&column=6&margin-w=8"/>
   <br/>
-  <sub><i>Trofi akan muncul setelah beberapa aktivitas di GitHub</i></sub>
+  <sub><i> </i></sub>
 </div>
 
 ---
