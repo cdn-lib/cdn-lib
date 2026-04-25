@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Selamat+Datang+di+Profil+Saya;Pengembang+PHP+dan+JavaScript+dari+Indonesia;Anime+%E2%80%A2+Kode+%E2%80%A2+Open+Source;Ayo+Buat+Sesuatu+Bersama" alt="Mengetik"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Yumeiro;Pengembang+PHP+dan+JavaScript+dari+Indonesia;Anime+%E2%80%A2+Kode+%E2%80%A2+Open+Source;Ayo+Buat+Sesuatu+Bersama" alt="Mengetik"/>
 
 <br/><br/>
 
