@@ -67,18 +67,44 @@ class YumeDeveloper
 
 <table>
 <tr>
-<td align="center" width="220">
 
-<img src="https://s1.zerochan.net/Rem.%28Re%3AZero%29.600.3588615.jpg" width="195" alt="Rem - Re:Zero"/>
+<!-- KOLOM KIRI: Thumbnail GIF Animasi -->
+<td align="center" width="230">
 
-<br/>
+<img src="https://img.shields.io/badge/LIVE-Animasi-e91e8c?style=flat-square&logo=crunchyroll&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/レム-Rem-6C63FF?style=flat-square&logo=crunchyroll&logoColor=white"/>
+<br/><br/>
+
+<!-- Ganti rem.gif dengan GIF Rem yang kamu upload ke repo -->
+<a href="https://github.com/cdn-lib/cdn-lib">
+  <img src="https://raw.githubusercontent.com/cdn-lib/cdn-lib/main/rem.gif" width="210" alt="Rem Animated"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/レム-Re%3AZero-e91e8c?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
 
 </td>
+
+<!-- KOLOM TENGAH: Karakter Art (rem.png yang di-generate) -->
+<td align="center" width="180">
+
+<img src="https://img.shields.io/badge/キャラクター-Karakter%20Art-6C63FF?style=flat-square&logo=anilist&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/cdn-lib/cdn-lib/main/rem.png" width="160" alt="Rem Art"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CV-水瀬いのり-6C63FF?style=flat-square&logo=spotify&logoColor=white"/>
+
+</td>
+
+<!-- KOLOM KANAN: Info Karakter -->
 <td valign="top">
 
-<img src="https://img.shields.io/badge/Karakter-Info-6C63FF?style=flat-square&logo=anilist&logoColor=white"/>
+<img src="https://img.shields.io/badge/Info-Karakter-6C63FF?style=flat-square&logo=anilist&logoColor=white"/>
 
 ```yaml
 nama       : レム (Rem)
@@ -115,10 +141,11 @@ Tidak ada yang lebih setia dari Rem.
 <br/>
 
 <img src="https://img.shields.io/badge/推しキャラ-Rem%20%2F%20%E3%83%AC%E3%83%A0-6C63FF?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
-<img src="https://img.shields.io/badge/CV-Minase%20Inori%20%2F%20%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A-e91e8c?style=for-the-badge&logo=applemusic&logoColor=white"/>
+<img src="https://img.shields.io/badge/CV-Minase%20Inori%20%2F%20%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A-e91e8c?style=for-the-badge&logo=spotify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Re%3AZero-2016-0d1117?style=for-the-badge&logo=myanimelist&logoColor=white"/>
 
 </div>
+
 
 ---
 
