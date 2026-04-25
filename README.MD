@@ -77,7 +77,7 @@ class YumeDeveloper
 
 <!-- Ganti rem.gif dengan GIF Rem yang kamu upload ke repo -->
 <a href="https://github.com/cdn-lib/cdn-lib">
-  <img src="https://raw.githubusercontent.com/cdn-lib/cdn-lib/main/rem.gif" width="210" alt="Rem Animated"/>
+  <img src="rezero-rem.gif" width="210" alt="Rem Animated"/>
 </a>
 
 <br/><br/>
@@ -93,7 +93,7 @@ class YumeDeveloper
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/cdn-lib/cdn-lib/main/rem.png" width="160" alt="Rem Art"/>
+<img src="rem.png" width="160" alt="Rem Art"/>
 
 <br/><br/>
 
