@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- ANIMASI MENGETIK / タイピングアニメーション -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=ようこそ！+Selamat+Datang+di+Profil+Saya;Pengembang+PHP+%26+JavaScript+dari+Indonesia;アニメ+%E3%83%BB+コード+%E3%83%BB+オープンソース+大好き！;一緒に作ろう！+Ayo+Buat+Sesuatu+Bersama" alt="Mengetik"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Selamat+Datang+di+Profil+Saya+%E2%9C%A8;Pengembang+PHP+%26+JavaScript+dari+Indonesia;Anime+%E2%80%A2+Kode+%E2%80%A2+Open+Source+%E5%A4%A7%E5%A5%BD%E3%81%8D;Ayo+Buat+Sesuatu+Bersama+%F0%9F%9A%80" alt="Mengetik"/>
 
 <br/><br/>
 
@@ -171,7 +171,9 @@ class YumeDeveloper
 <br/><br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cdn-lib&theme=tokyonight&no-frame=true&column=6&margin-w=8" alt="Trofi GitHub"/>
+  <img src="https://github-trophies.vercel.app/?username=cdn-lib&theme=tokyonight&no-frame=true&column=6&margin-w=8" alt="Trofi GitHub"/>
+  <br/>
+  <sub><i>* Trofi akan muncul setelah beberapa aktivitas di GitHub</i></sub>
 </div>
 
 ---
@@ -196,7 +198,7 @@ class YumeDeveloper
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=540&lines=ありがとう！+Terima+kasih+sudah+mampir;Kasih+bintang+kalau+suka+proyeknya;Mari+buat+sesuatu+yang+keren+bersama" alt="Footer Mengetik"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=540&lines=Arigatou%21+Terima+kasih+sudah+mampir+%E2%9C%A8;Kasih+bintang+kalau+suka+proyeknya+%E2%AD%90;Mari+buat+sesuatu+yang+keren+bersama+%F0%9F%9A%80" alt="Footer Mengetik"/>
 
 <br/><br/>
 
