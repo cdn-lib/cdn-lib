@@ -199,9 +199,7 @@ Tidak ada yang lebih setia dari Rem.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%E3%82%A2%E3%83%8B%E3%83%A1%E5%90%8D%E8%A8%80-Kutipan%20Anime-6C63FF?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
-
-<br/><br/>
+<br/>
 
 > *「どんなに辛くても、あきらめないでください」*
 >
