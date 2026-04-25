@@ -31,7 +31,13 @@ PORTOFOLIO OF YUMEIRO DESU
 </div>
 
 ---
+<div align="center">
 
+### ✧ [TENTANG SAYA](#tentang-saya) • [WAIFU FAVORIT](#waifu-favorit) • [ALAT TEMPUR](#alat-tempur) • [PROYEK](#proyek-berjalan-baru) • [STATISTIK](#statistik-github) • [PENCAPAIAN](#pencapaian) ✧
+
+</div>
+
+---
 # TENTANG SAYA
 RUN SENDIRI YA
 
@@ -293,7 +299,7 @@ Tidak ada yang lebih setia dari Rem.
 
 ---
 
-<img src="https://img.shields.io/badge/%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC-Pencapaian-6C63FF?style=for-the-badge&logo=trophy&logoColor=white"/>
+# PENCAPAIAN
 
 <br/>
 
