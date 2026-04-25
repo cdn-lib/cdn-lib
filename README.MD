@@ -60,10 +60,7 @@ class YumeDeveloper
 <br/>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Re%3AZero%20%E2%80%94%20Starting%20Life%20in%20Another%20World-レム%20%2F%20Rem-e91e8c?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/cdn-lib/cdn-lib">
   <img src="rezero-rem.gif" width="480" alt="Rem - Re:Zero Animated"/>
@@ -74,7 +71,7 @@ class YumeDeveloper
 <table>
 <tr>
 
-<td align="center" width="200">
+<td align="center" width="300">
 
 <img src="https://img.shields.io/badge/キャラクター-Karakter%20Art-6C63FF?style=flat-square&logo=anilist&logoColor=white"/>
 
