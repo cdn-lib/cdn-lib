@@ -8,7 +8,7 @@
 <br/>
 
 <!-- DINO GIF — upload dino.gif ke repo cdn-lib/cdn-lib -->
-<img src="https://raw.githubusercontent.com/cdn-lib/cdn-lib/main/dino.gif" width="180" alt="Dino"/>
+<img src="dino.gif" width="180" alt="Dino"/>
 
 <br/><br/>
 
@@ -66,7 +66,7 @@ class YumeDeveloper
 <br/><br/>
 
 <a href="https://github.com/cdn-lib/cdn-lib">
-  <img src="https://raw.githubusercontent.com/cdn-lib/cdn-lib/main/rezero-rem.gif" width="480" alt="Rem - Re:Zero Animated"/>
+  <img src="rezero-rem.gif" width="480" alt="Rem - Re:Zero Animated"/>
 </a>
 
 <hr/><br/>
@@ -80,7 +80,7 @@ class YumeDeveloper
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/cdn-lib/cdn-lib/main/rem.png" width="175" alt="Rem Art"/>
+<img src="rem.png" width="175" alt="Rem Art"/>
 
 <br/><br/>
 
