@@ -1,5 +1,5 @@
 <!-- HEADER BERGELOMBANG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=200&section=header&text=YUME%20DEVELOPER&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Pengembang%20Web%20Full%20Stack%20from%20Indonesia&descAlignY=58&descSize=16&descColor=ccccff" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=200&section=header&text=YUME%20DEVELOPER&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Pengembang%20Web%20Full%20Stack%20from%20Indonesia&descAlignY=58&descSize=30&descColor=ccccff" alt="Header"/>
 
 <div align="center">
 
