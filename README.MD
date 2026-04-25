@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="waifu.gif" width="auto" alt="Rem - Re:Zero Animated"/>
+<img src="waifu.gif" width="auto" alt="thumbnail"/>
 
 <br/>
 
