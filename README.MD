@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- DINO — di antara gelombang & typing, ukuran besar -->
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="YUMEIRO RYOSUKE >_<">
+<img src="waifu.gif" alt="YUMEIRO RYOSUKE >_<">
 
 <br/>
 
