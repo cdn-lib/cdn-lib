@@ -69,7 +69,7 @@ class YumeDeveloper
 <tr>
 <td align="center" width="220">
 
-<img src="rem.png" width="195" alt="Rem - Re:Zero"/>
+<img src="https://s1.zerochan.net/Rem.%28Re%3AZero%29.600.3588615.jpg" width="195" alt="Rem - Re:Zero"/>
 
 <br/>
 
