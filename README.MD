@@ -69,7 +69,7 @@ class YumeDeveloper
 <tr>
 <td align="center" width="220">
 
-<img src="https://raw.githubusercontent.com/cdn-lib/cdn-lib/main/rem.png" width="195" alt="Rem - Re:Zero"/>
+<img src="rem.png" width="195" alt="Rem - Re:Zero"/>
 
 <br/>
 
