@@ -9,14 +9,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Yumeiro;Pengembang+PHP+dan+JavaScript+dari+Indonesia;Anime+%E2%80%A2+Kode+%E2%80%A2+Open+Source;Ayo+Buat+Sesuatu+Bersama" alt="Mengetik"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://animekita.online" target="_blank"><img src="https://img.shields.io/badge/Official Site-animekita.online-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:kaguraisempai@gmail.com"><img src="https://img.shields.io/badge/Gmail-Hubungi_Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/cdn-lib"><img src="https://img.shields.io/badge/GitHub-cdn--lib-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.npmjs.com/~cdn-lib"><img src="https://img.shields.io/badge/npm-cdn--lib-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=cdn-lib&style=flat-square&color=6C63FF&label=Pengunjung+Profil"/>
 &nbsp;
