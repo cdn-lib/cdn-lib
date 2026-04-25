@@ -1,202 +1,224 @@
-<!--
-  ╔══════════════════════════════════════════╗
-  ║  GitHub Profile — YUME DEVELOPER         ║
-  ║  Salin ke README.md di repo cdn-lib      ║
-  ╚══════════════════════════════════════════╝
--->
+<!-- ══════════════════════════════════════════════════ -->
+<!--           YUME DEVELOPER — GitHub Profile          -->
+<!--       Copy this file content to your README.md     -->
+<!--   in the special repo: github.com/cdn-lib/cdn-lib  -->
+<!-- ══════════════════════════════════════════════════ -->
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=180&text=YUME%20DEVELOPER&fontAlign=70&rotate=-5&fontSize=54&fontColor=ffffff&color=0:0d0d1a,100:e91e8c&desc=ゆめ%20開発者%20%E2%80%A2%20Indonesia&descAlign=70&descAlignY=75&descSize=16&descColor=ffccee&animation=fadeIn" alt="Banner"/>
-
+<!-- ▓▓▓ ANIMATED HEADER ▓▓▓ -->
 <div align="center">
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=e91e8c&center=true&vCenter=true&width=620&lines=ようこそ！+Selamat+Datang+di+Profil+GitHub+Saya;Pengembang+Web+Full+Stack+dari+Indonesia;PHP+%E3%83%BB+JavaScript+%E3%83%BB+Open+Source;アニメ+と+コード+が+大好き;一緒に作ろう！+Ayo+Buat+Sesuatu+Bersama" alt="Mengetik"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=YUME%20DEVELOPER&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%20%E2%80%94%20Changing%20the%20world%2C%20one%20commit%20at%20a%20time&descSize=14&descAlignY=58&descColor=ccccff" alt="Header"/>
 
-<br/><br/>
-
-<!-- SOCIAL BADGES — pakai logo icon, bukan emoji -->
-<a href="https://animekita.online">
-  <img src="https://img.shields.io/badge/KizunaNET-animekita.online-e91e8c?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<!-- Animated typing -->
 <a href="https://github.com/cdn-lib">
-  <img src="https://img.shields.io/badge/GitHub-cdn--lib-0d0d1a?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=FF6B9D&center=true&vCenter=true&width=700&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81+Welcome+to+my+GitHub+%E2%9C%A8;Full+Stack+Developer+%7C+PHP+%7C+JavaScript;Building+%E3%82%A2%E3%83%8B%E3%83%A1+%26+Code+%F0%9F%8C%B8;Open+Source+%E5%BF%83%E3%81%8C%E5%A4%A7%E5%A5%BD%E3%81%8D%EF%BC%81;Powered+by+Coffee+%26+Anime+%E2%98%95" alt="Typing SVG"/>
 </a>
-<a href="https://npmjs.com/~cdn-lib">
-  <img src="https://img.shields.io/badge/npm-cdn--lib-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</a>
-<a href="mailto:kaguraisempai@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Hubungi_Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
+<br/>
+
+<!-- Social badges -->
+<a href="https://animekita.online"><img src="https://img.shields.io/badge/%F0%9F%8C%B8%20KizunaNET-animekita.online-FF6B9D?style=for-the-badge&logoColor=white"/></a>
+<a href="mailto:kaguraisempai@gmail.com"><img src="https://img.shields.io/badge/%E3%83%A1%E3%83%BC%E3%83%AB-kaguraisempai-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/cdn-lib"><img src="https://img.shields.io/badge/GitHub-cdn--lib-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.npmjs.com/~cdn-lib"><img src="https://img.shields.io/badge/npm-cdn--lib-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=cdn-lib&style=flat-square&color=e91e8c&label=Pengunjung"/>
+<img src="https://komarev.com/ghpvc/?username=cdn-lib&style=flat-square&color=FF6B9D&label=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E8%A8%AA%E5%95%8F%E8%80%85" alt="Profile views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/cdn-lib?label=Pengikut&style=flat-square&color=7c4dff"/>
+<img src="https://img.shields.io/github/followers/cdn-lib?label=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%AF%E3%83%BC&style=flat-square&color=6C63FF" alt="Followers"/>
 
 </div>
 
 <br/>
 
----
+<!-- ▓▓▓ SAKURA DIVIDER ▓▓▓ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
-<!-- SECTION: TENTANG SAYA -->
-<img src="https://img.shields.io/badge/--%E3%80%80%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B%E3%80%80%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7--Tentang+Saya-0d0d1a?style=for-the-badge&logo=person&logoColor=e91e8c" alt="Tentang Saya"/>
+<!-- ▓▓▓ ABOUT ME ▓▓▓ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> 自己紹介 · About Me
 
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="52%">
+<img align="right" width="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding gif"/>
 
 ```yaml
-# ── Kartu Karakter / キャラクターカード ──
+名前 (Name)       : YUME DEVELOPER
+ユーザー (Username) : cdn-lib
+場所 (Location)   : Indonesia 🇮🇩
+職業 (Role)       : Full Stack Developer
 
-nama      : YUME DEVELOPER
-pengguna  : cdn-lib
-lokasi    : Indonesia
-peran     : Pengembang Web Full Stack
+言語 (Languages):
+  - PHP           ████████████░░  85%
+  - JavaScript    ███████████░░░  78%
+  - HTML / CSS    ████████████░░  88%
 
-bahasa_pemrograman:
-  PHP          : ████████████░░  85%
-  JavaScript   : ██████████░░░░  78%
-  HTML & CSS   : █████████████░  90%
+趣味 (Hobbies):
+  - 📺 Watching Anime
+  - 💻 Open Source Contributing
+  - 🌐 Building Web Apps
+  - ☕ Drinking Coffee at 3AM
 
-sedang_dikerjakan:
-  - KizunaNET       (animekita.online)
-  - SMTP Mailer Kit (PHP + PHPMailer)
-  - ChatAI App      (JavaScript)
+現在 (Currently):
+  - 🔨 Building  : KizunaNET (animekita.online)
+  - 📖 Learning  : Node.js · REST API · Clean Code
+  - 🌱 Growing   : Open Source Projects
 
-hobi:
-  - Nonton anime malam-malam
-  - Open source saat weekend
-  - Ngoding sambil lo-fi + kopi
-
-moto: >
-  努力は必ず報われる
-  (Kerja keras selalu terbayar)
+名言 (Quote)      : "努力は必ず報われる"
+                   "Hard work will always be rewarded"
 ```
 
-</td>
-<td valign="top" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cdn-lib&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=e91e8c&icon_color=7c4dff&text_color=f0f0ff&ring_color=e91e8c&count_private=true" width="100%" alt="Statistik"/>
-
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=cdn-lib&hide_border=true&background=0d0d1a&ring=e91e8c&fire=e91e8c&currStreakLabel=e91e8c&sideLabels=7c4dff&dates=aaaacc&currStreakNum=ffffff&sideNums=ffffff" width="100%" alt="Streak"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- SECTION: TEKNOLOGI -->
-<img src="https://img.shields.io/badge/--%E3%80%80%E3%82%B9%E3%82%AD%E3%83%AB%E3%80%80%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7--Teknologi-0d0d1a?style=for-the-badge&logo=stackexchange&logoColor=e91e8c" alt="Teknologi"/>
-
-<br/><br/>
-
+<!-- ▓▓▓ ANIME QUOTE CARD ▓▓▓ -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Bahasa+Pemrograman-言語-e91e8c?style=flat-square&logo=code&logoColor=white"/>
-
-[![Keahlian](https://skillicons.dev/icons?i=php,js,html,css&theme=dark&perline=4)](https://skillicons.dev)
-
-<br/>
-
-<img src="https://img.shields.io/badge/Alat+%26+Platform-ツール-7c4dff?style=flat-square&logo=gear&logoColor=white"/>
-
-[![Alat](https://skillicons.dev/icons?i=git,github,vscode,linux,sqlite,npm,bash&theme=dark&perline=7)](https://skillicons.dev)
+> **✨ 今日のアニメ名言 · Anime Quote of the Day ✨**
+>
+> *「諦めたら、そこで試合終了ですよ」*
+> — **安西先生 (Coach Anzai)**, Slam Dunk
+>
+> *"If you give up, that's when the game ends."*
 
 </div>
 
----
+<br/>
 
-<!-- SECTION: PROYEK -->
-<img src="https://img.shields.io/badge/--%E3%80%80%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%80%80%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7--Proyek+Unggulan-0d0d1a?style=for-the-badge&logo=rocket&logoColor=e91e8c" alt="Proyek"/>
+<!-- ▓▓▓ ANIMATED DIVIDER ▓▓▓ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
-<br/><br/>
+<!-- ▓▓▓ TECH STACK ▓▓▓ -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> スキル · Tech Stack
+
+<div align="center">
+
+**🌸 Languages**
+
+[![PHP](https://skillicons.dev/icons?i=php)](https://php.net)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.com)
+[![HTML](https://skillicons.dev/icons?i=html)](https://html.com)
+[![CSS](https://skillicons.dev/icons?i=css)](https://css-tricks.com)
+
+**⚙️ Tools & Platforms**
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
+[![npm](https://skillicons.dev/icons?i=npm)](https://npmjs.com)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://gnu.org/software/bash)
+
+</div>
+
+<br/>
+
+<!-- Animated skill bars -->
+<div align="center">
+
+| スキル · Skill | レベル · Level | 熟練度 · Progress |
+|:---:|:---:|:---:|
+| PHP | 上級 · Advanced | `████████████░░` 85% |
+| JavaScript | 中級 · Intermediate | `███████████░░░` 78% |
+| HTML / CSS | 上級 · Advanced | `████████████░░` 88% |
+| Git & GitHub | 中級 · Intermediate | `██████████░░░░` 72% |
+| Linux / Bash | 中級 · Intermediate | `████████░░░░░░` 65% |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+<!-- ▓▓▓ GITHUB STATS ▓▓▓ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> 統計 · GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cdn-lib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9&bg_color=0d1117" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdn-lib&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=FF6B9D&text_color=c9d1d9&bg_color=0d1117" height="170" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=cdn-lib&theme=tokyonight&hide_border=true&fire=FF6B9D&ring=FF6B9D&currStreakLabel=FF6B9D&background=0d1117" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+<!-- ▓▓▓ FEATURED PROJECTS ▓▓▓ -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> プロジェクト · Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/cdn-lib/smtp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cdn-lib&repo=smtp&bg_color=0d0d1a&title_color=e91e8c&icon_color=7c4dff&text_color=f0f0ff&hide_border=true" alt="SMTP Mailer Kit"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cdn-lib&repo=smtp&theme=tokyonight&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9&bg_color=0d1117" alt="SMTP Mailer Kit"/>
 </a>
-&nbsp;
 <a href="https://github.com/cdn-lib/ChatAIApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cdn-lib&repo=ChatAIApp&bg_color=0d0d1a&title_color=e91e8c&icon_color=7c4dff&text_color=f0f0ff&hide_border=true" alt="ChatAI App"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cdn-lib&repo=ChatAIApp&theme=tokyonight&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9&bg_color=0d1117" alt="ChatAI App"/>
 </a>
 
 </div>
 
 <br/>
 
-| <img src="https://img.shields.io/badge/Proyek-プロジェクト-e91e8c?style=flat-square&logo=github&logoColor=white"/> | Deskripsi | Stack |
-|---|---|---|
-| [**SMTP Mailer Kit**](https://github.com/cdn-lib/smtp) | Kit email PHP siap pakai — Kontak + Langganan, balas otomatis, satu file konfigurasi | `PHP` `PHPMailer` |
-| [**ChatAI App**](https://github.com/cdn-lib/ChatAIApp) | Aplikasi chat bertenaga AI, dukungan banyak model | `JavaScript` `HTML` |
-| [**KizunaNET**](https://animekita.online) | Platform konten anime dengan katalog & checkout | `PHP` `SQLite` |
-
----
-
-<!-- SECTION: STATISTIK -->
-<img src="https://img.shields.io/badge/--%E3%80%80%E7%B5%B1%E8%A8%88%E3%80%80%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7--Statistik-0d0d1a?style=for-the-badge&logo=bar-chart&logoColor=e91e8c" alt="Statistik"/>
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdn-lib&layout=donut-vertical&bg_color=0d0d1a&title_color=e91e8c&text_color=f0f0ff&hide_border=true&langs_count=5" alt="Bahasa Terpakai"/>
+| 🌸 Project | 説明 · Description | Stack |
+|-----------|-------------------|-------|
+| [**📧 SMTP Mailer Kit**](https://github.com/cdn-lib/smtp) | Lightweight PHP email kit. Contact Us + Subscribe, auto-reply, single config | `PHP` `PHPMailer` `CSS` |
+| [**🤖 ChatAI App**](https://github.com/cdn-lib/ChatAIApp) | AI-powered chat app with multi-model support | `JavaScript` `HTML` |
+| [**🌐 KizunaNET**](https://animekita.online) | Anime content platform with catalog & checkout | `PHP` `SQLite` `CSS` |
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cdn-lib&bg_color=0d0d1a&color=e91e8c&line=7c4dff&point=ffffff&hide_border=true&area=true&area_color=e91e8c" width="95%" alt="Grafik Aktivitas"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+<!-- ▓▓▓ CONTRIBUTION SNAKE ▓▓▓ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> コントリビューション · Contribution Snake
+
+<div align="center">
+
+<!-- After setting up GitHub Actions, this will show your snake animation -->
+<!-- Setup guide: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/cdn-lib/cdn-lib/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+> **💡 セットアップ方法:** このアニメーションを有効にするには、[こちら](https://github.com/Platane/snk)のガイドに従ってください。
 
 </div>
 
----
+<br/>
 
-<!-- SECTION: TROFI -->
-<img src="https://img.shields.io/badge/--%E3%80%80%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%80%80%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7--Pencapaian-0d0d1a?style=for-the-badge&logo=trophy&logoColor=e91e8c" alt="Pencapaian"/>
+<!-- ▓▓▓ TROPHIES ▓▓▓ -->
+## 🏆 トロフィー · GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cdn-lib&theme=tokyonight&no-frame=true&column=7&margin-w=6" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<!-- ▓▓▓ ACTIVITY GRAPH ▓▓▓ -->
+## 📊 活動グラフ · Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cdn-lib&theme=tokyo-night&hide_border=true&area=true&color=FF6B9D&line=FF6B9D&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+<!-- ▓▓▓ FOOTER ▓▓▓ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=FF6B9D&center=true&vCenter=true&width=500&lines=%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%EF%BC%81+Thanks+for+visiting!+%F0%9F%8C%B8;Star+%E2%AD%90+my+repos+if+you+like+them!;Let%27s+build+something+together+%F0%9F%9A%80" alt="Footer typing"/>
 
 <br/><br/>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=cdn-lib&theme=darkhub&no-frame=true&column=7&margin-w=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" alt="Trofi GitHub"/>
-</div>
-
----
-
-<!-- KUTIPAN ANIME -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/-アニメ名言%20%C2%B7%20Kutipan+Anime-0d0d1a?style=for-the-badge&logo=bookopen&logoColor=e91e8c"/>
-
-<br/><br/>
-
-> *「どんなに辛くても、あきらめないでください」*
->
-> **"Seberapa pun sulitnya, jangan pernah menyerah."**
->
-> — All Might, Boku no Hero Academia
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20アニメ-FF6B9D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/From-Indonesia%20🇮🇩-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-6C63FF?style=for-the-badge"/>
 
 </div>
 
----
-
-<!-- FOOTER -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=7c4dff&center=true&vCenter=true&width=520&lines=ありがとう！+Terima+kasih+sudah+mampir;Kasih+bintang+kalau+suka+proyeknya;Mari+buat+sesuatu+yang+keren+bersama" alt="Footer"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Dibuat_dengan-Hati_%26_Kopi-e91e8c?style=for-the-badge&logo=heart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dari-Indonesia-red?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tema-Anime_%2F_%E3%82%A2%E3%83%8B%E3%83%A1-7c4dff?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=120&color=0:e91e8c,100:0d0d1a&section=footer&reversal=true" alt="Footer Banner"/>
+<!-- Waving footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer"/>
