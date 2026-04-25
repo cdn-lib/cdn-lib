@@ -1,4 +1,16 @@
-<!-- HEADER BERGELOMBANG -->
+<!-- 
+PORTOFOLIO OF YUMEIRO DESU
+
+
+
+-->
+
+
+
+
+
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=200&section=header&text=YUME%20DEVELOPER&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Pengembang%20Web%20Full%20Stack%20from%20Indonesia&descAlignY=58&descSize=30&descColor=ccccff" alt="Header"/>
 
 <div align="center">
@@ -12,13 +24,20 @@
 <br/>
 
 <a href="https://animekita.online" target="_blank"><img src="https://img.shields.io/badge/Official Site-animekita.online-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
 <a href="mailto:kaguraisempai@gmail.com"><img src="https://img.shields.io/badge/Gmail-Hubungi_Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 <a href="https://www.npmjs.com/~cdn-lib"><img src="https://img.shields.io/badge/npm-cdn--lib-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
 </div>
 
 ---
 
 # TENTANG SAYA
+RUN SENDIRI YA
+
+```code
+php yume.php
+```
 
 ```php
 <?php
@@ -142,7 +161,7 @@ $core->build();
 
 ---
 
-<img src="https://img.shields.io/badge/%E6%8E%A8%E3%81%97%E3%82%AD%E3%83%A3%E3%83%A9-Waifu%20Favorit-e91e8c?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
+# WAIFU FAVORIT
 
 <br/>
 
@@ -214,7 +233,7 @@ Tidak ada yang lebih setia dari Rem.
 
 ---
 
-<img src="https://img.shields.io/badge/%E3%82%B9%E3%82%AD%E3%83%AB-Teknologi-6C63FF?style=for-the-badge&logo=stackexchange&logoColor=white"/>
+# ALAT TEMPUR
 
 <div align="center">
 
@@ -226,7 +245,7 @@ Tidak ada yang lebih setia dari Rem.
 
 ---
 
-<img src="https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-Proyek%20Unggulan-6C63FF?style=for-the-badge&logo=rocket&logoColor=white"/>
+# PROYEK BERJALAN (BARU)
 
 <br/>
 
@@ -235,6 +254,7 @@ Tidak ada yang lebih setia dari Rem.
 <a href="https://github.com/cdn-lib/smtp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=cdn-lib&repo=smtp&theme=tokyonight&hide_border=true"/>
 </a>
+
 <a href="https://github.com/cdn-lib/ChatAIApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=cdn-lib&repo=ChatAIApp&theme=tokyonight&hide_border=true"/>
 </a>
@@ -251,13 +271,14 @@ Tidak ada yang lebih setia dari Rem.
 
 ---
 
-<img src="https://img.shields.io/badge/%E7%B5%B1%E8%A8%88-Statistik%20GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+# STATISTIK GITHUB
 
 <br/><br/>
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=cdn-lib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdn-lib&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 <br/>
@@ -285,7 +306,7 @@ Tidak ada yang lebih setia dari Rem.
 ---
 
 <div align="center">
-
+# KATA-KATA HARI INI
 <br/>
 
 > *「どんなに辛くても、あきらめないでください」*
