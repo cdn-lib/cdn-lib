@@ -65,43 +65,45 @@ class YumeDeveloper
 
 <div align="center">
 
+<!-- ── THUMBNAIL BANNER (seperti YouTube thumbnail) ── -->
+<img src="https://img.shields.io/badge/Re%3AZero%20%E2%80%94%20Starting%20Life%20in%20Another%20World-レム%20%2F%20Rem-e91e8c?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/cdn-lib/cdn-lib">
+  <img src="rezero-rem.gif" width="480" alt="Rem - Re:Zero Animated"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LIVE-Animasi%20Karakter-e91e8c?style=flat-square&logo=crunchyroll&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CV-水瀬いのり%20%2F%20Minase%20Inori-6C63FF?style=flat-square&logo=spotify&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Re%3AZero-2016-0d1117?style=flat-square&logo=myanimelist&logoColor=white"/>
+
+<br/><br/>
+
+<!-- ── KARTU INFO DI BAWAH THUMBNAIL ── -->
 <table>
 <tr>
 
-<!-- KOLOM KIRI: Thumbnail GIF Animasi -->
-<td align="center" width="230">
-
-<img src="https://img.shields.io/badge/LIVE-Animasi-e91e8c?style=flat-square&logo=crunchyroll&logoColor=white"/>
-
-<br/><br/>
-
-<!-- Ganti rem.gif dengan GIF Rem yang kamu upload ke repo -->
-<a href="https://github.com/cdn-lib/cdn-lib">
-  <img src="rezero-rem.gif" width="210" alt="Rem Animated"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/レム-Re%3AZero-e91e8c?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
-
-</td>
-
-<!-- KOLOM TENGAH: Karakter Art (rem.png yang di-generate) -->
-<td align="center" width="180">
+<!-- Kolom Kiri: Karakter Art -->
+<td align="center" width="200">
 
 <img src="https://img.shields.io/badge/キャラクター-Karakter%20Art-6C63FF?style=flat-square&logo=anilist&logoColor=white"/>
 
 <br/><br/>
 
-<img src="rem.png" width="160" alt="Rem Art"/>
+<img src="rem.png" width="175" alt="Rem Art"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CV-水瀬いのり-6C63FF?style=flat-square&logo=spotify&logoColor=white"/>
+<img src="https://img.shields.io/badge/レム-Rem-6C63FF?style=flat-square&logo=crunchyroll&logoColor=white"/>
 
 </td>
 
-<!-- KOLOM KANAN: Info Karakter -->
+<!-- Kolom Kanan: Info Karakter -->
 <td valign="top">
 
 <img src="https://img.shields.io/badge/Info-Karakter-6C63FF?style=flat-square&logo=anilist&logoColor=white"/>
@@ -145,6 +147,7 @@ Tidak ada yang lebih setia dari Rem.
 <img src="https://img.shields.io/badge/Re%3AZero-2016-0d1117?style=for-the-badge&logo=myanimelist&logoColor=white"/>
 
 </div>
+
 
 
 ---
