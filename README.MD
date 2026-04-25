@@ -215,13 +215,11 @@ Tidak ada yang lebih setia dari Rem.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=540&lines=Arigatou%21+Terima+kasih+sudah+mampir;Kasih+bintang+kalau+suka+proyeknya;Mari+buat+sesuatu+yang+keren+bersama" alt="Footer Mengetik"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=540&lines=Arigatou+sudah+mampir;Kasih+bintang+kalau+suka+proyeknya;Mari+buat+sesuatu+yang+keren+bersama" alt="Footer Mengetik"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20Source-Cinta-6C63FF?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dari-Indonesia-DC143C?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tema-Anime-6C63FF?style=flat-square&logo=crunchyroll&logoColor=white"/>
 
 </div>
 
