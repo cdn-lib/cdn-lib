@@ -69,7 +69,7 @@ class YumeDeveloper
 <tr>
 <td align="center" width="220">
 
-<img src="https://static.wikia.nocookie.net/rezero/images/d/d6/Rem_Anime.png/revision/latest/scale-to-width-down/200?cb=20160402141002" width="195" alt="Rem - Re:Zero"/>
+<img src="https://raw.githubusercontent.com/cdn-lib/cdn-lib/main/rem.png" width="195" alt="Rem - Re:Zero"/>
 
 <br/>
 
