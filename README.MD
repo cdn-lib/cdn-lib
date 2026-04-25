@@ -69,16 +69,16 @@ class YumeDeveloper
 <tr>
 <td align="center" width="220">
 
-<img src="https://static.wikia.nocookie.net/rezero/images/thumb/d/d6/Rem_Anime.png/250px-Rem_Anime.png" width="195" alt="Rem - Re:Zero"/>
+<img src="https://static.wikia.nocookie.net/rezero/images/d/d6/Rem_Anime.png/revision/latest/scale-to-width-down/200?cb=20160402141002" width="195" alt="Rem - Re:Zero"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/レム-Rem-6C63FF?style=flat-square&logo=crunchyroll&logoColor=white"/>
 
 </td>
-<td valign="top" style="padding-left:16px">
+<td valign="top">
 
-<img src="https://img.shields.io/badge/Karakter-Info-6C63FF?style=flat-square&logo=myanimelist&logoColor=white"/>
+<img src="https://img.shields.io/badge/Karakter-Info-6C63FF?style=flat-square&logo=anilist&logoColor=white"/>
 
 ```yaml
 nama       : レム (Rem)
@@ -88,7 +88,7 @@ pekerjaan  : Pelayan Istana Roswaal
 senjata    : Gada Bola (Morning Star)
 ```
 
-<img src="https://img.shields.io/badge/Seiyuu-Pengisi%20Suara-e91e8c?style=flat-square&logo=microphone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seiyuu-Pengisi%20Suara-e91e8c?style=flat-square&logo=spotify&logoColor=white"/>
 
 ```yaml
 nama       : 水瀬いのり (Minase Inori)
@@ -100,7 +100,7 @@ peran_lain :
   - Hinazuki (Boku dake ga Inai Machi)
 ```
 
-<img src="https://img.shields.io/badge/Alasan_Suka-Kesetiaan%20%26%20Pengorbanan-0d1117?style=flat-square&logo=heart&logoColor=e91e8c"/>
+<img src="https://img.shields.io/badge/Alasan_Suka-Kesetiaan%20dan%20Pengorbanan-0d1117?style=flat-square&logo=crunchyroll&logoColor=e91e8c"/>
 
 ```
 Rem adalah simbol kesetiaan dan pengorbanan.
@@ -128,7 +128,7 @@ Tidak ada yang lebih setia dari Rem.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Bahasa%20Pemrograman-6C63FF?style=flat-square&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bahasa%20Pemrograman-6C63FF?style=flat-square&logo=github&logoColor=white"/>
 
 <br/><br/>
 
@@ -139,7 +139,7 @@ Tidak ada yang lebih setia dari Rem.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Alat%20dan%20Platform-6C63FF?style=flat-square&logo=gear&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alat%20dan%20Platform-6C63FF?style=flat-square&logo=gnubash&logoColor=white"/>
 
 <br/><br/>
 
@@ -152,7 +152,7 @@ Tidak ada yang lebih setia dari Rem.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Library%20dan%20Framework-6C63FF?style=flat-square&logo=layers&logoColor=white"/>
+<img src="https://img.shields.io/badge/Library%20dan%20Framework-6C63FF?style=flat-square&logo=stackexchange&logoColor=white"/>
 
 <br/><br/>
 
