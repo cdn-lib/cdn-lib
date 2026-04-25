@@ -3,8 +3,7 @@
 
 <div align="center">
 
-<!-- DINO — di antara gelombang & typing, ukuran besar -->
-<img src="waifuku.gif" alt="YUMEIRO RYOSUKE >_<">
+<img src="waifuku.gif" width="auto" alt="Rem - Re:Zero Animated"/>
 
 <br/>
 
