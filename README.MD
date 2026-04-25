@@ -66,7 +66,7 @@ class YumeDeveloper
   <img src="rezero-rem.gif" width="480" alt="Rem - Re:Zero Animated"/>
 </a>
 
-<hr/><br/>
+<br/>
 
 <table>
 <tr>
