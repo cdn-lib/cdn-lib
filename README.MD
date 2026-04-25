@@ -63,7 +63,7 @@ class YumeDeveloper
 <br/>
 
 <a href="https://github.com/cdn-lib/cdn-lib">
-  <img src="rezero-rem.gif" width="480" alt="Rem - Re:Zero Animated"/>
+  <img src="rezero-rem.gif" width="600" alt="Rem - Re:Zero Animated"/>
 </a>
 
 <br/>
