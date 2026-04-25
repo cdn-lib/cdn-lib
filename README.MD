@@ -76,14 +76,6 @@ class YumeDeveloper
 
 <br/>
 
-<img src="https://img.shields.io/badge/LIVE-Animasi%20Karakter-e91e8c?style=flat-square&logo=crunchyroll&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CV-水瀬いのり%20%2F%20Minase%20Inori-6C63FF?style=flat-square&logo=spotify&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Re%3AZero-2016-0d1117?style=flat-square&logo=myanimelist&logoColor=white"/>
-
-<br/><br/>
-
 <!-- ── KARTU INFO DI BAWAH THUMBNAIL ── -->
 <table>
 <tr>
