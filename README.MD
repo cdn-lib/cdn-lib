@@ -5,6 +5,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Selamat+Datang+di+Profil+Saya;Pengembang+PHP+dan+JavaScript+dari+Indonesia;Anime+%E2%80%A2+Kode+%E2%80%A2+Open+Source;Ayo+Buat+Sesuatu+Bersama" alt="Mengetik"/>
 
+<br/>
+
+<!-- DINO GIF — upload dino.gif ke repo cdn-lib/cdn-lib -->
+<img src="https://raw.githubusercontent.com/cdn-lib/cdn-lib/main/dino.gif" width="180" alt="Dino"/>
+
 <br/><br/>
 
 <a href="https://animekita.online" target="_blank"><img src="https://img.shields.io/badge/KizunaNET-animekita.online-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -61,10 +66,10 @@ class YumeDeveloper
 <br/><br/>
 
 <a href="https://github.com/cdn-lib/cdn-lib">
-  <img src="rezero-rem.gif" width="480" alt="Rem - Re:Zero Animated"/>
+  <img src="https://raw.githubusercontent.com/cdn-lib/cdn-lib/main/rezero-rem.gif" width="480" alt="Rem - Re:Zero Animated"/>
 </a>
 
-<hr><br>
+<hr/><br/>
 
 <table>
 <tr>
@@ -75,7 +80,7 @@ class YumeDeveloper
 
 <br/><br/>
 
-<img src="rem.png" width="175" alt="Rem Art"/>
+<img src="https://raw.githubusercontent.com/cdn-lib/cdn-lib/main/rem.png" width="175" alt="Rem Art"/>
 
 <br/><br/>
 
@@ -126,8 +131,6 @@ Tidak ada yang lebih setia dari Rem.
 <img src="https://img.shields.io/badge/Re%3AZero-2016-0d1117?style=for-the-badge&logo=myanimelist&logoColor=white"/>
 
 </div>
-
-
 
 ---
 
