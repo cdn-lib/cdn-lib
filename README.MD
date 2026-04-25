@@ -214,7 +214,7 @@ Tidak ada yang lebih setia dari Rem.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=540&lines=Arigatou+sudah+mampir;Kasih+bintang+kalau+suka+proyeknya;Mari+buat+sesuatu+yang+keren+bersama" alt="Footer Mengetik"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Dari-Indonesia-DC143C?style=flat-square&logo=googlemaps&logoColor=white"/>
 
