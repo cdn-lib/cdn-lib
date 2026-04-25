@@ -43,16 +43,7 @@ class YumeDeveloper
     ];
 
     public function sedangBelajar(): array {
-        return ["Node.js", "Desain REST API", "Arsitektur Bersih"];
-    }
-
-    public function faktaMenarik(): string {
-        // コーヒーをコードに変え、アニメをインスピレーションに変える
-        return "Kopi jadi kode — dan anime jadi inspirasi";
-    }
-
-    public function moto(): string {
-        return "努力は必ず報われる — Kerja keras selalu terbayar.";
+        return ["Node.js", "Desainer", "Bahasa Jepang", "Python"];
     }
 }
 ```
@@ -65,7 +56,6 @@ class YumeDeveloper
 
 <div align="center">
 
-<!-- ── THUMBNAIL BANNER (seperti YouTube thumbnail) ── -->
 <img src="https://img.shields.io/badge/Re%3AZero%20%E2%80%94%20Starting%20Life%20in%20Another%20World-レム%20%2F%20Rem-e91e8c?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
 
 <br/><br/>
@@ -76,11 +66,9 @@ class YumeDeveloper
 
 <hr><br>
 
-<!-- ── KARTU INFO DI BAWAH THUMBNAIL ── -->
 <table>
 <tr>
 
-<!-- Kolom Kiri: Karakter Art -->
 <td align="center" width="200">
 
 <img src="https://img.shields.io/badge/キャラクター-Karakter%20Art-6C63FF?style=flat-square&logo=anilist&logoColor=white"/>
@@ -95,7 +83,6 @@ class YumeDeveloper
 
 </td>
 
-<!-- Kolom Kanan: Info Karakter -->
 <td valign="top">
 
 <img src="https://img.shields.io/badge/Info-Karakter-6C63FF?style=flat-square&logo=anilist&logoColor=white"/>
