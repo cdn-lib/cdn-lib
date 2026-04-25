@@ -15,7 +15,7 @@ PORTOFOLIO OF YUMEIRO DESU
 
 <div align="center">
 
-<img src="waifu.gif" width="auto" alt="thumbnail"/>
+## <img src="waifu.gif" width="auto" alt="thumbnail"/>
 
 <br/>
 
