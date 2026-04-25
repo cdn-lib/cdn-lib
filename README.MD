@@ -27,7 +27,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/自己紹介-Tentang%20Saya-6C63FF?style=for-the-badge&logo=readme&logoColor=white"/>
+#TENTANG SAYA
 
 ```php
 <?php
@@ -42,7 +42,7 @@ class YumeDeveloper
     public array $fokus  = ["Pengembangan Web", "Integrasi API", "Open Source"];
 
     public array $proyekAktif = [
-        "KizunaNET"       => "https://animekita.online",
+        "Official Site"       => "https://animekita.online",
         "SMTP Mailer Kit" => "Kit email PHP siap pakai",
         "ChatAI App"      => "Aplikasi chat bertenaga AI",
     ];
