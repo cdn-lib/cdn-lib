@@ -45,13 +45,6 @@ PORTOFOLIO OF YUMEIRO DESU
 <br/>
 
 <div align="center">
-<br/>
-
-<a href="https://github.com/cdn-lib/cdn-lib">
-  <img src="rezero-rem.gif" width="auto" alt="Rem - Re:Zero Animated"/>
-</a>
-
-<br/>
 
 <table>
 <tr>
