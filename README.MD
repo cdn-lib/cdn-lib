@@ -49,16 +49,6 @@ PORTOFOLIO OF YUMEIRO DESU
 <table>
 <tr>
 
-<td align="center" width="300">
-
-<img src="https://img.shields.io/badge/キャラクター-Karakter%20Art-6C63FF?style=flat-square&logo=anilist&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/レム-Rem-6C63FF?style=flat-square&logo=crunchyroll&logoColor=white"/>
-
-</td>
-
 <td valign="top">
 
 <img src="https://img.shields.io/badge/Info-Karakter-6C63FF?style=flat-square&logo=anilist&logoColor=white"/>
