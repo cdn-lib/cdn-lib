@@ -1,6 +1,5 @@
-<div align="center">
 # KATA-KATA HARI INI
-<br/>
+<div align="center">
 
 > *「どんなに辛くても、あきらめないでください」*
 >
