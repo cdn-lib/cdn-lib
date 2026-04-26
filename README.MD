@@ -1,4 +1,4 @@
-# KATA-KATA HARI INI
+## KATA-KATA HARI INI
 <div align="center">
 
 > *「どんなに辛くても、あきらめないでください」*
