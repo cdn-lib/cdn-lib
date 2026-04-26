@@ -55,10 +55,6 @@ PORTOFOLIO OF YUMEIRO DESU
 
 <br/><br/>
 
-<img src="rem.png" width="500" alt="Rem Art"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/レム-Rem-6C63FF?style=flat-square&logo=crunchyroll&logoColor=white"/>
 
 </td>
