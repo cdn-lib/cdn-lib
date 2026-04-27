@@ -1,5 +1,7 @@
 <div align="center">
 <img src="https://cdnb.artstation.com/p/assets/images/images/023/138/759/large/helena-viana-anime-girl-welcome-by-ell.jpg?1578239624" width="100%"></img>
+
+---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vall-dev&theme=tokyo-night&hide_border=true&area=true" width="50%"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vall-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 <br/>
