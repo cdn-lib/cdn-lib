@@ -1,4 +1,6 @@
 <div align="center">
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vall-dev&theme=tokyo-night&hide_border=true&area=true" width="97%"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=vall-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vall-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
@@ -7,9 +9,6 @@
 
 <img src="https://streak-stats.demolab.com?user=vall-dev&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vall-dev&theme=tokyo-night&hide_border=true&area=true" width="97%"/>
 
 </div>
 
